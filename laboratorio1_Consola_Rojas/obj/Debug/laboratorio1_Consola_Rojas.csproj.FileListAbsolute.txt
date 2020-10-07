@@ -1,0 +1,6 @@
+D:\trabajo de programacion 2 en clases\laboratorio1_Consola_Rojas\bin\Debug\laboratorio1_Consola_Rojas.exe.config
+D:\trabajo de programacion 2 en clases\laboratorio1_Consola_Rojas\bin\Debug\laboratorio1_Consola_Rojas.exe
+D:\trabajo de programacion 2 en clases\laboratorio1_Consola_Rojas\bin\Debug\laboratorio1_Consola_Rojas.pdb
+D:\trabajo de programacion 2 en clases\laboratorio1_Consola_Rojas\obj\Debug\laboratorio1_Consola_Rojas.csproj.CoreCompileInputs.cache
+D:\trabajo de programacion 2 en clases\laboratorio1_Consola_Rojas\obj\Debug\laboratorio1_Consola_Rojas.exe
+D:\trabajo de programacion 2 en clases\laboratorio1_Consola_Rojas\obj\Debug\laboratorio1_Consola_Rojas.pdb
